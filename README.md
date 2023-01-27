@@ -1,6 +1,6 @@
 # ClockDynamic
 
-- [See now!](https://asn6a.github.io/ClockDynamic-Website/)
+- [Visit now!](https://asn6a.github.io/ClockDynamic-Website/)
 
 This was my first project using basic JavaScript, which was also done on mobile!
 ## About 
